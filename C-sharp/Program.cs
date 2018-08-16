@@ -6,19 +6,37 @@ namespace Csharp
     {
         public static void Main(string[] args)
         {
-            DrinksMachine myMachine = new DrinksMachine();
-            myMachine._location = "Kitchen";
-            myMachine._model = "DM1000";
+            DrinksMachine myMachine = new DrinksMachine("Kitchen", "Brand", "DM1000");
+            myMachine.Location = "Kitchen";
+            myMachine.Model = "DM1000";
+
+            Console.WriteLine(myMachine.Location);
+            Console.WriteLine(myMachine.Make);
+            Console.WriteLine(myMachine.Model);
+
             myMachine.MakeCappuccino();
 
-            Console.WriteLine(myMachine._location);
+            // Static Classes
+
+            Console.WriteLine(Math.Pow(2, 8));
         }
     }
     class DrinksMachine
     {
-        public string _location;
-        public string _make;
-        public string _model;
+        public DrinksMachine(string loc, string make, string model)
+        {
+            this.Location = loc;
+            this.Make = make;
+            this.Model = model;
+        }
+
+        private string _location;
+        private string _make;
+        private string _model;
+
+        public string Location { get => _location; set => _location = value; }
+        public string Make { get => _make; set => _make = value; }
+        public string Model { get => _model; set => _model = value; }
 
         public void MakeCappuccino()
         {
