@@ -1,0 +1,6 @@
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabTwo/LabTwo/bin/Debug/LabTwo.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabTwo/LabTwo/bin/Debug/LabTwo.pdb
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabTwo/LabTwo/obj/x86/Debug/LabTwo.csprojResolveAssemblyReference.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabTwo/LabTwo/obj/x86/Debug/LabTwo.csproj.CoreCompileInputs.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabTwo/LabTwo/obj/x86/Debug/LabTwo.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabTwo/LabTwo/obj/x86/Debug/LabTwo.pdb
