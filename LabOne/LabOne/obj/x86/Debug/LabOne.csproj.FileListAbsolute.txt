@@ -1,0 +1,6 @@
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabOne/LabOne/bin/Debug/LabOne.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabOne/LabOne/bin/Debug/LabOne.pdb
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabOne/LabOne/obj/x86/Debug/LabOne.csprojResolveAssemblyReference.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabOne/LabOne/obj/x86/Debug/LabOne.csproj.CoreCompileInputs.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabOne/LabOne/obj/x86/Debug/LabOne.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/LabOne/LabOne/obj/x86/Debug/LabOne.pdb
