@@ -1,0 +1,6 @@
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/C-sharp/obj/x86/Debug/C-sharp.csprojResolveAssemblyReference.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/C-sharp/obj/x86/Debug/C-sharp.csproj.CoreCompileInputs.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/C-sharp/bin/Debug/C-sharp.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/C-sharp/bin/Debug/C-sharp.pdb
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/C-sharp/obj/x86/Debug/C-sharp.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/C-sharp/obj/x86/Debug/C-sharp.pdb
