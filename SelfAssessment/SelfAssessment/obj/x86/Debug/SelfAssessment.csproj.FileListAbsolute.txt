@@ -1,0 +1,6 @@
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/SelfAssessment/SelfAssessment/bin/Debug/SelfAssessment.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/SelfAssessment/SelfAssessment/bin/Debug/SelfAssessment.pdb
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/SelfAssessment/SelfAssessment/obj/x86/Debug/SelfAssessment.csprojResolveAssemblyReference.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/SelfAssessment/SelfAssessment/obj/x86/Debug/SelfAssessment.csproj.CoreCompileInputs.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/SelfAssessment/SelfAssessment/obj/x86/Debug/SelfAssessment.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/SelfAssessment/SelfAssessment/obj/x86/Debug/SelfAssessment.pdb
