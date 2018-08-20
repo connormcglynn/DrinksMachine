@@ -6,7 +6,12 @@ namespace MoshCsharp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string s = "1";
+            int i = Convert.ToInt32(s);
+            int j = int.Parse(s);
+
+            Console.WriteLine(j);
+
         }
     }
 }
