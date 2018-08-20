@@ -1,24 +1,24 @@
 ﻿using System;
+using MoshCsharp.Math;
 
 namespace MoshCsharp
 {
+
     class MainClass
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            try
+            Person connor = new Person
             {
-                var number = "1234";
-                byte b = Convert.ToByte(number);
+                FirstName = "Connor",
+                LastName = "McGlynn"
+            };
+            connor.Introduce();
 
-                Console.WriteLine(b);
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("The number couldn't convert.");
-            }
+            Calculator calculator = new Calculator();
+            var result = calculator.Add(5, 44);
 
-
+            Console.WriteLine(result);
         }
     }
 }
