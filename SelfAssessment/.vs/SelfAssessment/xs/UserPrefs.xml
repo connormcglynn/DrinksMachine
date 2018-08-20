@@ -1,19 +1,10 @@
 ﻿<Properties StartupConfiguration="{362C6F3A-E870-484F-8DF2-E1CAAD801E7F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SelfAssessment/Program.cs">
-    <Files>
-      <File FileName="SelfAssessment/Program.cs" Line="28" Column="37" />
-      <File FileName="SelfAssessment/Student.cs" Line="4" Column="12" />
-      <File FileName="SelfAssessment/Teacher.cs" Line="3" Column="2" />
-      <File FileName="SelfAssessment/Course.cs" Line="11" Column="34" />
-      <File FileName="SelfAssessment/UProgram.cs" Line="11" Column="30" />
-      <File FileName="SelfAssessment/Degree.cs" Line="11" Column="30" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SelfAssessment PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SelfAssessment PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
