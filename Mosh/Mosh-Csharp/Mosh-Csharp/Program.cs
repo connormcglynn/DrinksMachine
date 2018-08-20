@@ -6,11 +6,18 @@ namespace MoshCsharp
     {
         public static void Main(string[] args)
         {
-            string s = "1";
-            int i = Convert.ToInt32(s);
-            int j = int.Parse(s);
+            try
+            {
+                var number = "1234";
+                byte b = Convert.ToByte(number);
 
-            Console.WriteLine(j);
+                Console.WriteLine(b);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("The number couldn't convert.");
+            }
+
 
         }
     }
