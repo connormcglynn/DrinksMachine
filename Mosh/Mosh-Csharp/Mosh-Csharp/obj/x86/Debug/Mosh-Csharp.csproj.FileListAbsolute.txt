@@ -1,0 +1,6 @@
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/bin/Debug/Mosh-Csharp.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/obj/x86/Debug/Mosh-Csharp.csprojResolveAssemblyReference.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/obj/x86/Debug/Mosh-Csharp.csproj.CoreCompileInputs.cache
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/bin/Debug/Mosh-Csharp.pdb
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/obj/x86/Debug/Mosh-Csharp.exe
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/obj/x86/Debug/Mosh-Csharp.pdb
