@@ -15,29 +15,22 @@ namespace MoshCsharp
     {
         static void Main(string[] args) 
         {
-            var numbers = new List<int>() {1, 2, 3, 4};
-            numbers.Add(1);
-            numbers.AddRange(new int[3] { 5, 6, 7 });
+            var dateTime = new DateTime(2015, 1, 1);
+            var now = DateTime.Now;
+            var today = DateTime.Today;
 
-            foreach (var number in numbers)
-                Console.WriteLine(number);
+            Console.WriteLine(now.ToString("yyyy MMMMM dd HH:mm"));
 
-            Console.WriteLine("Index of 1: " + numbers.IndexOf(1));
-            Console.WriteLine("Last index of 1: " + numbers.LastIndexOf(1));
 
-            Console.WriteLine("Count: " + numbers.Count);
+            var timeSpan = new TimeSpan(1, 2, 3);
 
-            for (var i = 0; i < numbers.Count; i++)
-            {
-                if (numbers[i] == 1)
-                    numbers.Remove(numbers[i]);
-            }
+            Console.WriteLine(TimeSpan.FromHours(1));
 
-            foreach (var number in numbers)
-                Console.WriteLine(number);
+            var start = DateTime.Now;
+            var end = DateTime.Now.AddMinutes(5);
+            var duration = end - start;
 
-            numbers.Clear();
-            Console.WriteLine(numbers.Count);
+            Console.WriteLine(duration);
 
 
         }
