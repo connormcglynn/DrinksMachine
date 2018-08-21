@@ -1,18 +1,14 @@
 ﻿<Properties StartupConfiguration="{8A44CFB6-0150-4A22-B99A-D2AAF1BB6F70}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Math/Calculator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="17" Column="1" />
-      <File FileName="Person.cs" Line="16" Column="1" />
-      <File FileName="Math/Calculator.cs" Line="11" Column="1" />
+      <File FileName="Program.cs" Line="9" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mosh-Csharp" expanded="True">
             <Node name="Mosh-Csharp" expanded="True">
-              <Node name="Math" expanded="True">
-                <Node name="Calculator.cs" selected="True" />
-              </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -3,9 +3,14 @@ namespace MoshCsharp.Math
 {
     public class Calculator
     {
-        public int Add(int a, int b)
+        public class Add
         {
-            return a + b;
+            int[] numbers = { 1, 2, 3 };
+            // numbers[0] = 1;
+            // numbers[1] = 2;
+            // numbers[2] = 3;
+
+            Console.WriteLine(numbers[1]);
         }
     }
 }

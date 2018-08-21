@@ -1,24 +1,27 @@
 ﻿using System;
-using MoshCsharp.Math;
 
 namespace MoshCsharp
 {
-
-    class MainClass
+    class Program
     {
         static void Main(string[] args)
         {
-            Person connor = new Person
-            {
-                FirstName = "Connor",
-                LastName = "McGlynn"
-            };
-            connor.Introduce();
+            var firstName = "Connor";
+            var lastName = "McGlynn";
 
-            Calculator calculator = new Calculator();
-            var result = calculator.Add(5, 44);
+            var fullName = string.Format("My name is {0} {1}", firstName, lastName);
 
-            Console.WriteLine(result);
+            var names = new string[3] { "John", "George", "Paul" };
+            var formattedNames = string.Join(",", names);
+
+
+            var text = @"Hi John
+Look into the following paths
+c:\folder1\foolder2
+c:\folder3\folder4";
+
+            Console.WriteLine(text);
+
         }
     }
 }
