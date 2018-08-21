@@ -2,25 +2,31 @@
 
 namespace MoshCsharp
 {
+    public enum ShippingMethod
+    {
+        RegularAirMail = 1,
+        RegisteredAirMail = 2,
+        Express = 3
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
-            var firstName = "Connor";
-            var lastName = "McGlynn";
+            var method = ShippingMethod.Express;
 
-            var fullName = string.Format("My name is {0} {1}", firstName, lastName);
+            Console.WriteLine((int)method);
 
-            var names = new string[3] { "John", "George", "Paul" };
-            var formattedNames = string.Join(",", names);
+            var methodId = 3;
+            Console.WriteLine((ShippingMethod)methodId);
 
+            Console.WriteLine(method.ToString());
 
-            var text = @"Hi John
-Look into the following paths
-c:\folder1\foolder2
-c:\folder3\folder4";
+            var methodName = "Express";
 
-            Console.WriteLine(text);
+            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
+
+            Console.WriteLine();
 
         }
     }
