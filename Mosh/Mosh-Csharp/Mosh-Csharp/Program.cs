@@ -14,18 +14,15 @@ namespace MoshCsharp
     {
         static void Main(string[] args)
         {
-            while (true)
+            var random = new Random();
+
+            var buffer = new char[10];
+            for (var i = 0; i < 10; i++)
             {
-                Console.Write("Type your name:");
-                var input = Console.ReadLine();
-
-                if (!String.IsNullOrWhiteSpace(input))
-                {
-                    Console.WriteLine("@Echo: " + input);
-                }
-
-                break;
+                buffer[i] = (char)('a' + random.Next(0, 26));
             }
+            Console.WriteLine(buffer);
+
         }
     }
 }
