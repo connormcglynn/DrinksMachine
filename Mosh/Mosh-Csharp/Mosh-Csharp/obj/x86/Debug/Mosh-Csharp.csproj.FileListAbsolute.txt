@@ -4,3 +4,6 @@
 /Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/bin/Debug/Mosh-Csharp.pdb
 /Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/obj/x86/Debug/Mosh-Csharp.exe
 /Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/obj/x86/Debug/Mosh-Csharp.pdb
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/bin/Debug/nunit.framework.dll
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/bin/Debug/nunit.framework.pdb
+/Users/connormcglynn/Documents/Bootcamps/C-sharp/Mosh/Mosh-Csharp/Mosh-Csharp/bin/Debug/nunit.framework.xml
