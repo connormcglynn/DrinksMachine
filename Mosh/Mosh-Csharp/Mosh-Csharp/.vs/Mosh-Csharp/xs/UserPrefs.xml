@@ -1,8 +1,24 @@
 ﻿<Properties StartupConfiguration="{8A44CFB6-0150-4A22-B99A-D2AAF1BB6F70}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="11" Column="37" />
+      <File FileName="Program.cs" Line="20" Column="1" />
+      <File FileName="Customer.cs" Line="29" Column="5" />
+      <File FileName="Order.cs" Line="12" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mosh-Csharp" expanded="True">
+            <Node name="Mosh-Csharp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Mosh-Csharp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
